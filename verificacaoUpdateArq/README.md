@@ -1,4 +1,5 @@
 Orientações: 
+*NÃO ESQUECER DE INSERIR O SEU DIRETÓRIO CORRETAMENTE NO SCRIPT DO .BAT  NO SCRIPT .PS1!!*
 Este script  faz a verificação de atualização de um determinado arquivo.
 Lembre-se de habilitar a execução de scripts no seu Power Shell para que o
 script funcione corretamente.
