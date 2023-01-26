@@ -8,6 +8,6 @@ Não esqueça de verificar o diretório informado no script, ele precisa estar c
 Recomendado: Este script pode ser programado para rodar em segundo plano no agendador de tarefa do windows, (por isso o executável em batch script, ele precisa estar na mesma pasta que o script do power shell).
 
 Origem: Foi designado a mim (Felipe Gomes), a responsabilidade e necessidade de criar um script para verificar se um determinado arquivo
-está sendo atualizado constantemente. Então pesquisei sobre scripts em Power Shell  e vi que poderia atender a está necessidade.
+está sendo atualizado constantemente. Então pesquisei sobre scripts em Power Shell  e vi que poderia atender a esta necessidade.
 
 Agradecimento Especial: Marco (companheiro de trabalho), Jamil Dos Santos (companheiro de trabalho), Bruno Henrique (companheiro de estudos).
